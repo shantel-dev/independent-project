@@ -99,4 +99,13 @@
     font-size: 3rem;
     margin-bottom: 20px;
 }
+/* My Work */
+#mywork{
+    background-color: lavenderblush;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 30px;
+    margin-bottom: 60px;
 
+}
