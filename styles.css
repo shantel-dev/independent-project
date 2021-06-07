@@ -33,4 +33,15 @@
     color: black;
     box-shadow: 0 0 10px yellow;
 }
+/* Home Section */
+#home{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 840px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
 
