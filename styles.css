@@ -78,3 +78,13 @@
     outline: none;
     transition: .6s ease;
 }
+ /* About Section */
+ #about{
+    background-color: rgb(243, 222, 238);
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
