@@ -87,4 +87,11 @@
     padding: 20px;
     margin-bottom: 50px;
 }
-
+#intro{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    padding: 10px;
+    font-size: 2rem;
+    
+}
